@@ -1,5 +1,5 @@
 # Zsh shell - resources
-Starting with macOS Catalina Zsh shell pre installed https://support.apple.com/en-us/HT208050
+Starting with macOS Catalina Zsh shell comes pre installed https://support.apple.com/en-us/HT208050
 
 Moving to zsh https://scriptingosx.com/2019/06/moving-to-zsh/
 
