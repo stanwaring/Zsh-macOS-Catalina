@@ -21,5 +21,5 @@ Learn Zsh in 80 Minutes macOS - Oh My Zsh - Command Line Power User | https://ww
 
 How to see hidden files and folders in macOS | AppleInsider for macOS versions older than Sierra.
 
-**Caution when doing this, not to delete important hidden system-files!** 
+**Caution when doing this, not to change or delete important hidden system-files!** 
 https://appleinsider.com/articles/18/07/27/how-to-see-hidden-files-and-folders-in-macos
